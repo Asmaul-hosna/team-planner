@@ -1,0 +1,62 @@
+[{
+    "image": "https://i.ibb.co/fdDFB0Y/ramos01.pnghttps://i.ibb.co/fdDFB0Y/ramos01.png",
+     "name": "Sergio ramos",
+     "salary": 1500000,
+     "id": "Gs01"
+   }, {
+    
+     "image": "https://i.ibb.co/4tLZ2DC/varane11.png",
+     "name": "Varane",
+     "salary": 4000000,
+     "id": "Gs02"
+   }, {
+     "image": "https://i.ibb.co/84vH2JM/nacho10.png",
+     "name": "Nacho",
+     "salary": 80000000,
+     "id": "Gs03"
+   }, {
+     "image": "https://i.ibb.co/LYXvzpw/casemiro05.png",
+     "name": "Casemiro",
+     "salary": 31000000,
+     "id": "Gs04"
+   }, {
+     "image": "https://i.ibb.co/cwRVG8L/kroos07.png",
+     "name": "Kroos",
+     "salary": 1000000,
+     "id": "Gs05"
+   }, {
+     "image": "https://i.ibb.co/8jjWVvC/benzema02.png",
+     "name": "Benzema",
+     "salary": 8000000,
+     "id": "Gs06"
+   }, {
+     "image": "https://i.ibb.co/ggkZm5h/james06.png",
+     "name": "James",
+     "salary": "3900000",
+     "id": "Gs07"
+   }, {
+     "image": "https://i.ibb.co/zxxC3MJ/bale04.png",
+     "name": "Bale",
+     "salary": 15000000,
+     "id": "Gs08"
+   }, {
+     "image": "https://i.ibb.co/kmB7VrR/marcelo08.png",
+     "name": "Marcelo",
+     "salary": 7000000,
+     "id": "Gs09"
+   }, {
+     "image": "https://i.ibb.co/G9mm0tD/modric09.png",
+     "name": "Modric",
+     "salary": 600000,
+     "id": "Gs10"
+   },{
+    "image": "https://i.ibb.co/3WB3696/isko03.png",
+    "name": "Isco",
+    "salary": 400000,
+    "id": "Gs10"
+  },{
+    "image": "https://i.ibb.co/k1PmQLz/eden12.png",
+    "name": "Eden Hazard",
+    "salary": 6700000,
+    "id": "Gs10"
+  }]

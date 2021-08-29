@@ -1,0 +1,13 @@
+.player-info {
+    float:left;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+}
+.player-info img{
+    width: 100%;
+}
